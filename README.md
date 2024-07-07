@@ -1,11 +1,6 @@
-- 👋 Hi, I’m Matiullah MIRAJ
+- 👋 Hi, I’m Matiullah Miraj
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning new web dev technologies
-- 📫 My portfolio https://nextjs-portfolio-production.up.railway.app/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-miraj004/miraj004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 See my [portfolio](https://nextjs-portfolio-production.up.railway.app/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I enjoy solving puzzles and playing chess.
