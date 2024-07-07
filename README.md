@@ -2,5 +2,4 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning new web dev technologies
 - 📫 See my [portfolio](https://nextjs-portfolio-production.up.railway.app/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy solving puzzles and playing chess.
+- ⚡ Fun fact: I enjoy solving puzzles and playing cricket.
