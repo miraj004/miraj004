@@ -2,4 +2,3 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning new web dev technologies
 - 📫 See my [portfolio](https://matiullah-miraj-production.up.railway.app/)
-- ⚡ Fun fact: I enjoy solving puzzles and playing cricket.
